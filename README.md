@@ -121,7 +121,7 @@ The robot approached an obstacle at its maximum speed in 10 trials and stopped e
    git clone <repository-url>
    ```
 
-2. **Open the project:** open `CodeOto.ino` in the Arduino IDE.
+2. **Open the project:** open `Code_control.ino` in the Arduino IDE.
 
 3. **Configure the board:** select your ESP32 board model and the correct COM port.
 
